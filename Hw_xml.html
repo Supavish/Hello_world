@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">   
+<script>
+function loadXMLDoc() {
+var xhttp;
+xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myFunction(this);
+    }
+};
+xhttp.open("GET", "info.xml", true);
+xhttp.send();
+}
+    
+function myFunction(xml) {
+    var x, i, txt, xmlDoc; 
+    xmlDoc = xml.responseXML;
+    txt = "<tr><th>Date</th><th>Base Currency</th><th>Target Currency</th><th>Value</th><th>Description</th></tr>";
+    x = xmlDoc.getElementsByTagName("item");
+    for (i = 0; i < x.length; i++) { 
+        txt += "<tr><td>" +
+            x[i].getElementsByTagName("dc:date")[0].childNodes[0].nodeValue + "</td><td>" +
+            x[i].getElementsByTagName("cb:baseCurrency")[0].childNodes[0].nodeValue + "</td><td>" +
+            x[i].getElementsByTagName("cb:targetCurrency")[0].childNodes[0].nodeValue + "</td><td>" + 
+            x[i].getElementsByTagName("cb:value")[0].childNodes[0].nodeValue + "</td><td>" +
+            x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue + "</td><tr>" 
+            }
+    document.getElementById("demo").innerHTML = txt;
+}
+</script>
+<style>
+    table,th,td{
+        border : 1px black solid;
+        border-collapse : collapse;
+        }
+    th,td{
+        padding: 5px
+    }
+    th {
+        background-color: rgb(240, 99, 71);
+        }
+    td {
+        background-color: rgba(240, 99, 71,0.2);}
+</style>    
+<body>
+<center>
+<h1>อัตราแลกเปลี่ยนประจำวัน</h1>
+<button type="button" onclick="loadXMLDoc()">Show Excharge Rate Table</button><br><br>
+<table id="demo"></table>
+</center>
+</body>
+</html>
+

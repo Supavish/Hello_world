@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:cb="http://centralbanks.org/cb/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3c.org/1999/02/22-rdf-syntax-ns#rdf.xsd">
+<channel rdf:about="http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx">
+<title>Bank of Thailand: Daily Foreign Exchange Rates</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>
+Daily foreign exchange rates rates from Bank of Thailand.
+</description>
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-USD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-GBP.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-EUR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-JPY.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-HKD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-MYR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-SGD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-BND.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-PHP.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-IDR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-INR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-CHF.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-AUD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-NZD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-CAD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-SEK.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-DKK.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-NOK.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-CNY.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-MXN.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-ZAR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-KRW.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-TWD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-KWD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-SAR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-AED.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-MMK.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-BDT.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-CZK.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-KHR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-KES.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-LAK.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-RUB.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-VND.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-EGP.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-PLN.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-LKR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-IQD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-BHD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-OMR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-JOD.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-QAR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-MVR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-NPR.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-PGK.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-ILS.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-HUF.xml"/>
+<rdf:li rdf:resource="http://www2.bot.or.th/RSS/fxrates/fxrate-PKR.xml"/>
+</rdf:Seq>
+</items>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+</channel>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-USD.xml">
+<title>
+TH: 31.2110000 THB = 1 USD 2018-04-05 Bank of Thailand Weighted-average Interbank Exchange Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>31.2110000 Thai Baht = 1 USD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>USD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">31.2110000</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-USD.xml">
+<title>
+TH: 30.9556 THB = 1 USD 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>30.9556 Thai Baht = 1 USD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>USD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">30.9556</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-USD.xml">
+<title>
+TH: 31.0434 THB = 1 USD 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>31.0434 Thai Baht = 1 USD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>USD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">31.0434</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-USD.xml">
+<title>
+TH: 31.3988 THB = 1 USD 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>31.3988 Thai Baht = 1 USD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>USD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">31.3988</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-GBP.xml">
+<title>
+TH: 43.3687 THB = 1 GBP 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>43.3687 Thai Baht = 1 GBP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>GBP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">43.3687</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-GBP.xml">
+<title>
+TH: 43.5016 THB = 1 GBP 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>43.5016 Thai Baht = 1 GBP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>GBP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">43.5016</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-GBP.xml">
+<title>
+TH: 44.4179 THB = 1 GBP 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>44.4179 Thai Baht = 1 GBP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>GBP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">44.4179</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-EUR.xml">
+<title>
+TH: 37.8336 THB = 1 EUR 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>37.8336 Thai Baht = 1 EUR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>EUR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">37.8336</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-EUR.xml">
+<title>
+TH: 37.9462 THB = 1 EUR 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>37.9462 Thai Baht = 1 EUR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>EUR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">37.9462</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-EUR.xml">
+<title>
+TH: 38.7044 THB = 1 EUR 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>38.7044 Thai Baht = 1 EUR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>EUR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">38.7044</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-JPY.xml">
+<title>
+TH: 28.7239 THB = 100 JPY 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>28.7239 Thai Baht = 100 JPY</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>JPY</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">28.7239</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-JPY.xml">
+<title>
+TH: 28.8081 THB = 100 JPY 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>28.8081 Thai Baht = 100 JPY</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>JPY</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">28.8081</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-JPY.xml">
+<title>
+TH: 29.6130 THB = 100 JPY 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>29.6130 Thai Baht = 100 JPY</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>JPY</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">29.6130</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-HKD.xml">
+<title>
+TH: 3.9234 THB = 1 HKD 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>3.9234 Thai Baht = 1 HKD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>HKD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">3.9234</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-HKD.xml">
+<title>
+TH: 3.9369 THB = 1 HKD 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>3.9369 Thai Baht = 1 HKD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>HKD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">3.9369</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-HKD.xml">
+<title>
+TH: 4.0171 THB = 1 HKD 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>4.0171 Thai Baht = 1 HKD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>HKD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">4.0171</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MYR.xml">
+<title>
+TH: 7.9133 THB = 1 MYR 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>7.9133 Thai Baht = 1 MYR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MYR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">7.9133</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MYR.xml">
+<title>
+TH: 7.9557 THB = 1 MYR 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>7.9557 Thai Baht = 1 MYR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MYR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">7.9557</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MYR.xml">
+<title>
+TH: 8.2009 THB = 1 MYR 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.2009 Thai Baht = 1 MYR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MYR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.2009</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SGD.xml">
+<title>
+TH: 23.4223 THB = 1 SGD 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.4223 Thai Baht = 1 SGD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SGD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.4223</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SGD.xml">
+<title>
+TH: 23.4962 THB = 1 SGD 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.4962 Thai Baht = 1 SGD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SGD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.4962</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SGD.xml">
+<title>
+TH: 24.0735 THB = 1 SGD 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>24.0735 Thai Baht = 1 SGD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SGD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">24.0735</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-BND.xml">
+<title>
+TH: 23.2367 THB = 1 BND 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.2367 Thai Baht = 1 BND</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>BND</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.2367</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-BND.xml">
+<title>
+TH: 23.3267 THB = 1 BND 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.3267 Thai Baht = 1 BND</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>BND</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.3267</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-BND.xml">
+<title>
+TH: 23.9163 THB = 1 BND 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.9163 Thai Baht = 1 BND</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>BND</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.9163</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PHP.xml">
+<title>
+TH: 0.5850 THB = 1 PHP 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.5850 Thai Baht = 1 PHP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PHP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.5850</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PHP.xml">
+<title>
+TH: 0.5888 THB = 1 PHP 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.5888 Thai Baht = 1 PHP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PHP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.5888</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PHP.xml">
+<title>
+TH: 0.6110 THB = 1 PHP 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.6110 Thai Baht = 1 PHP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PHP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.6110</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-IDR.xml">
+<title>
+TH: 2.1364 THB = 1000 IDR 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>2.1364 Thai Baht = 1000 IDR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>IDR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">2.1364</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-IDR.xml">
+<title>
+TH: 2.1625 THB = 1000 IDR 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>2.1625 Thai Baht = 1000 IDR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>IDR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">2.1625</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-IDR.xml">
+<title>
+TH: 2.3966 THB = 1000 IDR 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>2.3966 Thai Baht = 1000 IDR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>IDR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">2.3966</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-INR.xml">
+<title>
+TH: 0.4326 THB = 1 INR 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.4326 Thai Baht = 1 INR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>INR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.4326</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-INR.xml">
+<title>
+TH: 0.4460 THB = 1 INR 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.4460 Thai Baht = 1 INR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>INR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.4460</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-INR.xml">
+<title>
+TH: 0.5154 THB = 1 INR 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.5154 Thai Baht = 1 INR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>INR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.5154</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CHF.xml">
+<title>
+TH: 32.0384 THB = 1 CHF 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>32.0384 Thai Baht = 1 CHF</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CHF</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">32.0384</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CHF.xml">
+<title>
+TH: 32.1386 THB = 1 CHF 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>32.1386 Thai Baht = 1 CHF</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CHF</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">32.1386</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CHF.xml">
+<title>
+TH: 32.8329 THB = 1 CHF 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>32.8329 Thai Baht = 1 CHF</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CHF</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">32.8329</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-AUD.xml">
+<title>
+TH: 23.5632 THB = 1 AUD 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.5632 Thai Baht = 1 AUD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>AUD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.5632</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-AUD.xml">
+<title>
+TH: 23.6484 THB = 1 AUD 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.6484 Thai Baht = 1 AUD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>AUD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.6484</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-AUD.xml">
+<title>
+TH: 24.4231 THB = 1 AUD 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>24.4231 Thai Baht = 1 AUD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>AUD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">24.4231</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NZD.xml">
+<title>
+TH: 22.4057 THB = 1 NZD 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>22.4057 Thai Baht = 1 NZD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NZD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">22.4057</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NZD.xml">
+<title>
+TH: 22.4882 THB = 1 NZD 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>22.4882 Thai Baht = 1 NZD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NZD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">22.4882</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NZD.xml">
+<title>
+TH: 23.1066 THB = 1 NZD 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>23.1066 Thai Baht = 1 NZD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NZD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">23.1066</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CAD.xml">
+<title>
+TH: 24.0821 THB = 1 CAD 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>24.0821 Thai Baht = 1 CAD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CAD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">24.0821</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CAD.xml">
+<title>
+TH: 24.1674 THB = 1 CAD 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>24.1674 Thai Baht = 1 CAD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CAD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">24.1674</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CAD.xml">
+<title>
+TH: 24.7052 THB = 1 CAD 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>24.7052 Thai Baht = 1 CAD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CAD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">24.7052</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SEK.xml">
+<title>
+TH: 3.6606 THB = 1 SEK 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>3.6606 Thai Baht = 1 SEK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SEK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">3.6606</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SEK.xml">
+<title>
+TH: 3.6763 THB = 1 SEK 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>3.6763 Thai Baht = 1 SEK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SEK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">3.6763</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SEK.xml">
+<title>
+TH: 3.7577 THB = 1 SEK 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>3.7577 Thai Baht = 1 SEK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SEK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">3.7577</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-DKK.xml">
+<title>
+TH: 5.0759 THB = 1 DKK 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>5.0759 Thai Baht = 1 DKK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>DKK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">5.0759</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-DKK.xml">
+<title>
+TH: 5.0933 THB = 1 DKK 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>5.0933 Thai Baht = 1 DKK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>DKK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">5.0933</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-DKK.xml">
+<title>
+TH: 5.1970 THB = 1 DKK 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>5.1970 Thai Baht = 1 DKK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>DKK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">5.1970</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NOK.xml">
+<title>
+TH: 3.9321 THB = 1 NOK 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>3.9321 Thai Baht = 1 NOK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NOK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">3.9321</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NOK.xml">
+<title>
+TH: 3.9469 THB = 1 NOK 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>3.9469 Thai Baht = 1 NOK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NOK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">3.9469</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NOK.xml">
+<title>
+TH: 4.0359 THB = 1 NOK 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>4.0359 Thai Baht = 1 NOK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NOK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">4.0359</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CNY.xml">
+<title>
+TH: 4.8626 THB = 1 CNY 2018-04-05 Bank of Thailand Average Buying Sight Bill
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>4.8626 Thai Baht = 1 CNY</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CNY</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">4.8626</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CNY.xml">
+<title>
+TH: 4.8930 THB = 1 CNY 2018-04-05 Bank of Thailand Average Buying Transfer
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>4.8930 Thai Baht = 1 CNY</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CNY</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">4.8930</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CNY.xml">
+<title>
+TH: 5.0243 THB = 1 CNY 2018-04-05 Bank of Thailand Average Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>5.0243 Thai Baht = 1 CNY</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CNY</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">5.0243</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MXN.xml">
+<title>
+TH: 1.7151 THB = 1 MXN 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.7151 Thai Baht = 1 MXN</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MXN</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.7151</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MXN.xml">
+<title>
+TH: 1.7347 THB = 1 MXN 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.7347 Thai Baht = 1 MXN</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MXN</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.7347</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-ZAR.xml">
+<title>
+TH: 2.6125 THB = 1 ZAR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>2.6125 Thai Baht = 1 ZAR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>ZAR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">2.6125</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-ZAR.xml">
+<title>
+TH: 2.6424 THB = 1 ZAR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>2.6424 Thai Baht = 1 ZAR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>ZAR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">2.6424</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KRW.xml">
+<title>
+TH: 0.0293 THB = 1 KRW 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.0293 Thai Baht = 1 KRW</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KRW</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.0293</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KRW.xml">
+<title>
+TH: 0.0297 THB = 1 KRW 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.0297 Thai Baht = 1 KRW</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KRW</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.0297</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-TWD.xml">
+<title>
+TH: 1.0637 THB = 1 TWD 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.0637 Thai Baht = 1 TWD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>TWD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.0637</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-TWD.xml">
+<title>
+TH: 1.0759 THB = 1 TWD 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.0759 Thai Baht = 1 TWD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>TWD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.0759</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KWD.xml">
+<title>
+TH: 103.5125 THB = 1 KWD 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>103.5125 Thai Baht = 1 KWD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KWD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">103.5125</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KWD.xml">
+<title>
+TH: 104.6976 THB = 1 KWD 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>104.6976 Thai Baht = 1 KWD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KWD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">104.6976</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SAR.xml">
+<title>
+TH: 8.2778 THB = 1 SAR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.2778 Thai Baht = 1 SAR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SAR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.2778</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-SAR.xml">
+<title>
+TH: 8.3726 THB = 1 SAR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.3726 Thai Baht = 1 SAR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>SAR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.3726</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-AED.xml">
+<title>
+TH: 8.4518 THB = 1 AED 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.4518 Thai Baht = 1 AED</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>AED</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.4518</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-AED.xml">
+<title>
+TH: 8.5485 THB = 1 AED 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.5485 Thai Baht = 1 AED</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>AED</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.5485</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MMK.xml">
+<title>
+TH: 0.0233 THB = 1 MMK 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.0233 Thai Baht = 1 MMK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MMK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.0233</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MMK.xml">
+<title>
+TH: 0.0236 THB = 1 MMK 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.0236 Thai Baht = 1 MMK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MMK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.0236</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-BDT.xml">
+<title>
+TH: 0.3740 THB = 1 BDT 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.3740 Thai Baht = 1 BDT</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>BDT</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.3740</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-BDT.xml">
+<title>
+TH: 0.3783 THB = 1 BDT 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.3783 Thai Baht = 1 BDT</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>BDT</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.3783</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CZK.xml">
+<title>
+TH: 1.5050 THB = 1 CZK 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.5050 Thai Baht = 1 CZK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CZK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.5050</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-CZK.xml">
+<title>
+TH: 1.5222 THB = 1 CZK 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.5222 Thai Baht = 1 CZK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>CZK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.5222</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KHR.xml">
+<title>
+TH: 0.7734 THB = 100 KHR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.7734 Thai Baht = 100 KHR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KHR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.7734</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KHR.xml">
+<title>
+TH: 0.7822 THB = 100 KHR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.7822 Thai Baht = 100 KHR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KHR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.7822</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KES.xml">
+<title>
+TH: 0.3071 THB = 1 KES 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.3071 Thai Baht = 1 KES</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KES</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.3071</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-KES.xml">
+<title>
+TH: 0.3106 THB = 1 KES 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.3106 Thai Baht = 1 KES</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>KES</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.3106</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-LAK.xml">
+<title>
+TH: 0.3745 THB = 100 LAK 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.3745 Thai Baht = 100 LAK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>LAK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.3745</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-LAK.xml">
+<title>
+TH: 0.3788 THB = 100 LAK 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.3788 Thai Baht = 100 LAK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>LAK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.3788</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-RUB.xml">
+<title>
+TH: 0.5405 THB = 1 RUB 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.5405 Thai Baht = 1 RUB</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>RUB</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.5405</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-RUB.xml">
+<title>
+TH: 0.5467 THB = 1 RUB 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.5467 Thai Baht = 1 RUB</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>RUB</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.5467</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-VND.xml">
+<title>
+TH: 0.1361 THB = 100 VND 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.1361 Thai Baht = 100 VND</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>VND</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.1361</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-VND.xml">
+<title>
+TH: 0.1376 THB = 100 VND 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.1376 Thai Baht = 100 VND</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>VND</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.1376</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-EGP.xml">
+<title>
+TH: 1.7549 THB = 1 EGP 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.7549 Thai Baht = 1 EGP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>EGP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.7549</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-EGP.xml">
+<title>
+TH: 1.7749 THB = 1 EGP 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>1.7749 Thai Baht = 1 EGP</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>EGP</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">1.7749</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PLN.xml">
+<title>
+TH: 9.0730 THB = 1 PLN 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>9.0730 Thai Baht = 1 PLN</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PLN</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">9.0730</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PLN.xml">
+<title>
+TH: 9.1769 THB = 1 PLN 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>9.1769 Thai Baht = 1 PLN</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PLN</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">9.1769</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-LKR.xml">
+<title>
+TH: 0.1991 THB = 1 LKR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.1991 Thai Baht = 1 LKR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>LKR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.1991</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-LKR.xml">
+<title>
+TH: 0.2013 THB = 1 LKR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.2013 Thai Baht = 1 LKR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>LKR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.2013</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-IQD.xml">
+<title>
+TH: 0.0260 THB = 1 IQD 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.0260 Thai Baht = 1 IQD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>IQD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.0260</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-IQD.xml">
+<title>
+TH: 0.0263 THB = 1 IQD 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.0263 Thai Baht = 1 IQD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>IQD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.0263</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-BHD.xml">
+<title>
+TH: 82.3214 THB = 1 BHD 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>82.3214 Thai Baht = 1 BHD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>BHD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">82.3214</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-BHD.xml">
+<title>
+TH: 83.2639 THB = 1 BHD 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>83.2639 Thai Baht = 1 BHD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>BHD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">83.2639</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-OMR.xml">
+<title>
+TH: 80.6322 THB = 1 OMR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>80.6322 Thai Baht = 1 OMR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>OMR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">80.6322</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-OMR.xml">
+<title>
+TH: 81.5553 THB = 1 OMR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>81.5553 Thai Baht = 1 OMR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>OMR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">81.5553</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-JOD.xml">
+<title>
+TH: 43.7539 THB = 1 JOD 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>43.7539 Thai Baht = 1 JOD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>JOD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">43.7539</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-JOD.xml">
+<title>
+TH: 44.2548 THB = 1 JOD 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>44.2548 Thai Baht = 1 JOD</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>JOD</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">44.2548</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-QAR.xml">
+<title>
+TH: 8.5265 THB = 1 QAR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.5265 Thai Baht = 1 QAR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>QAR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.5265</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-QAR.xml">
+<title>
+TH: 8.6241 THB = 1 QAR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.6241 Thai Baht = 1 QAR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>QAR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.6241</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MVR.xml">
+<title>
+TH: 2.0080 THB = 1 MVR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>2.0080 Thai Baht = 1 MVR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MVR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">2.0080</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-MVR.xml">
+<title>
+TH: 2.0310 THB = 1 MVR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>2.0310 Thai Baht = 1 MVR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>MVR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">2.0310</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NPR.xml">
+<title>
+TH: 0.2978 THB = 1 NPR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.2978 Thai Baht = 1 NPR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NPR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.2978</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-NPR.xml">
+<title>
+TH: 0.3012 THB = 1 NPR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.3012 Thai Baht = 1 NPR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>NPR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.3012</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PGK.xml">
+<title>
+TH: 9.5458 THB = 1 PGK 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>9.5458 Thai Baht = 1 PGK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PGK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">9.5458</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PGK.xml">
+<title>
+TH: 9.6551 THB = 1 PGK 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>9.6551 Thai Baht = 1 PGK</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PGK</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">9.6551</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-ILS.xml">
+<title>
+TH: 8.7787 THB = 1 ILS 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.7787 Thai Baht = 1 ILS</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>ILS</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.7787</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-ILS.xml">
+<title>
+TH: 8.8792 THB = 1 ILS 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>8.8792 Thai Baht = 1 ILS</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>ILS</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">8.8792</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-HUF.xml">
+<title>
+TH: 0.1225 THB = 1 HUF 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.1225 Thai Baht = 1 HUF</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>HUF</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.1225</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-HUF.xml">
+<title>
+TH: 0.1239 THB = 1 HUF 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.1239 Thai Baht = 1 HUF</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>HUF</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.1239</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PKR.xml">
+<title>
+TH: 0.2683 THB = 1 PKR 2018-04-05 Bank of Thailand Buying Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.2683 Thai Baht = 1 PKR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PKR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.2683</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+<item rdf:about="http://www2.bot.or.th/RSS/fxrates/fxrate-PKR.xml">
+<title>
+TH: 0.2713 THB = 1 PKR 2018-04-05 Bank of Thailand Selling Rate
+</title>
+<link>
+http://www.bot.or.th/english/statistics/financialmarkets/exchangerate/_layouts/Application/ExchangeRate/ExchangeRate.aspx
+</link>
+<description>0.2713 Thai Baht = 1 PKR</description>
+<dc:language>en</dc:language>
+<dc:date>2018-04-05</dc:date>
+<dc:format>text/html</dc:format>
+<cb:country>TH</cb:country>
+<cb:baseCurrency>THB</cb:baseCurrency>
+<cb:targetCurrency>PKR</cb:targetCurrency>
+<cb:value frequency="business" decimals="4">0.2713</cb:value>
+<cb:rateType>Daily</cb:rateType>
+<cb:application>statistics</cb:application>
+</item>
+</rdf:RDF>
